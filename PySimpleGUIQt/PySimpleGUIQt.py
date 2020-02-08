@@ -8569,7 +8569,6 @@ def main():
                        auto_size_buttons=False,
                        default_element_size=(200, 22),
                        # border_depth=1,
-                       use_native_style=True
                        )
     # graph_elem.DrawCircle((200, 200), 50, 'blue')
     i = 0
